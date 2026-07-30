@@ -1,0 +1,6 @@
+{
+  "name": "Dinesh Medical Hall - Trusted Pharmacy in Jehanabad",
+  "description": "Genuine medicines, healthcare products, surgical supplies, and baby care at Hospital Mor, Jehanabad, Bihar. WhatsApp order & medicine stock checker available.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
