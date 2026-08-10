@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dinesh-dedical.vercel.app/sitemap.xml

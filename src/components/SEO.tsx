@@ -15,7 +15,7 @@ export const SEO: React.FC<SEOProps> = ({
   title = 'Dinesh Medical Hall | Genuine Medicines & Healthcare in Jehanabad',
   description = 'Dinesh Medical Hall - Your trusted pharmacy at Hospital Mor, Jehanabad, Bihar 804408. 100% genuine medicines, surgical supplies, baby care, health devices & 24/7 WhatsApp prescription order.',
   keywords = 'Dinesh Medical Hall, Pharmacy in Jehanabad, Medical store Hospital Mor Jehanabad, Genuine medicines Jehanabad, Sadar Hospital medical shop, Buy medicines WhatsApp 7903430774, Medicine store Bihar 804408',
-  canonicalUrl = 'https://dineshmedicalhall.com',
+  canonicalUrl = 'https://dinesh-dedical.vercel.app',
   ogImage = 'https://images.unsplash.com/photo-1586015555751-63bb77f4322a?auto=format&fit=crop&w=1200&q=80',
   faqData,
   breadcrumbsData
@@ -70,8 +70,8 @@ export const SEO: React.FC<SEOProps> = ({
       '@type': 'Pharmacy',
       'name': 'Dinesh Medical Hall',
       'image': ogImage,
-      '@id': 'https://dineshmedicalhall.com/#pharmacy',
-      'url': 'https://dineshmedicalhall.com',
+      '@id': 'https://dinesh-dedical.vercel.app/#pharmacy',
+      'url': 'https://dinesh-dedical.vercel.app',
       'telephone': '+91-7903430774',
       'priceRange': '₹',
       'address': {
