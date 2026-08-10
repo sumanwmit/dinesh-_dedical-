@@ -261,16 +261,9 @@ export const Footer: React.FC = () => {
           <p>&copy; {new Date().getFullYear()} Dinesh Medical Hall. All rights reserved.</p>
           
           <div className="flex items-center space-x-1">
-            <span>Developed by</span>
-            <a
-              href="https://main.webmakerit.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="font-bold text-emerald-400 hover:text-emerald-300 inline-flex items-center space-x-0.5 transition ml-1"
-            >
-              <span>WMIT</span>
-              <ExternalLink className="w-3 h-3 ml-0.5" />
-            </a>
+            <span></span>
+            <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
+
           </div>
         </div>
 
